@@ -1,0 +1,65 @@
+Galactic Republic: Supreme Chancellor Palpatine[T5], Galactic Republic: Captain of The Red Guard [T5], Galactic Republic: Red Guard Lieutenant [T5], Galactic Republic: Red Guard [T5], Galactic Republic: Mas Amedda [T4], Galactic Republic: Senate Commando Captain [T4], Galactic Republic: Senate Commando Lieutenant [T4], Galactic Republic: Senate Commando [T4], Galactic Republic: Senator Padme Amidala [T3], Galactic Republic: Senator Bail Organa [T3], Galactic Republic: Senator Aang [T3], Galactic Republic: Senator Ask Aak [T3], Galactic Republic: Senator Mon Mothma [T3], Galactic Republic: Senator Gume Saam [T3], Galactic Republic: Senator Tikkes [T3], Galactic Republic: Senator Meena Tills[T3], Galactic Republic: Senator Sweitt Concorkill [T3], Galactic Republic: Representative Binks [T3], 
+
+Jedi Order: Jedi Master, Jedi Order: Jedi Knight, Jedi Order: Jedi Padawan, Jedi Order: Jedi Youngling, Jedi Order: Grand Master Yoda [T4], Jedi Order: Mace Windu [T3], Jedi Order: Shaak Ti [T3], Jedi Order: Obi-Wan Kenobi [T6], Jedi Order: Anakin Skywalker [T6], Jedi Order: Tiplar [T5], Jedi Order: Tiplee [T5], Jedi Order: Plo Koon [T5], Jedi Order: Jocasta Nu [T5], Jedi Order: Cin Drallig [T4], Jedi Order: Quinlan Vos [T4], Jedi Order: Aayla Secura [T4], Jedi Order: Kit Fisto [T4], Jedi Order: Ki-Adi-Mundi [T4], Jedi Order: Luminara Unduli [T4], Jedi Order: Adi Gallia [T4], Jedi Order: Beth Koth [T4], Jedi Order: Saesee Tiin [T4], Jedi Order: Ima-Gun Di [T3], Jedi Order: Sin Tachi [T3], Jedi Order: Ahsoka Tano [T5], Jedi Order: Barriss Offee [T4], Jedi Order: Jedi Sage [T4], Jedi Order: Jedi Shadow [T4], Jedi Order: Jedi Temple Guard [T3], Jedi Order: Jedi Guardian Specialist [T3], Jedi Order: Jedi Healer [T2], Jedi Order: Jedi Consular [T2], Jedi Order: Jedi Sentinel [T2], Jedi Order: Jedi Guardian [T2], Jedi Order: Trial of Spirit [T1],
+
+High Command: Marshal Commander [T4], High Command: Specialized Operations Brigade Senior Commander [T3], High Command: Recon and Attack Forces Senior Commander [T3], High Command: Clone Veteran [T3], High Command: Black Ops Regimental Kal Skirata [T2], High Command: Specialized Regimental Commander [T2], High Command: Attack Regimental Commander [T2], High Command: Recon Regimental Commander [T2], 
+
+Base Ops: Commodore, Base Ops: Captain, Base Ops: Lieutenant, Base Ops: Sublieutenant, Base Ops: Midshipman, Base Ops: Admiral WuIlf Yularen [T4], Base Ops: Vice Admiral Wilhuff Tarkin [T3], Base Ops: Rear Admiral [T2], Base Ops: Medic [T1], Base Ops: Engineer [T1], 
+
+Shock Trooper: Commander Fox, Shock Trooper: Commander Stone, Shock Trooper: Commander Thire, Shock Trooper: Commander Thorn, Shock Trooper: Jek, Shock Trooper: Hound, Shock Trooper: ARF Sharpshooter, Shock Trooper: Engineer, Shock Trooper: Heavy Trooper, Shock Trooper: Trooper, Shock Trooper: Magma Trooper [T5], Shock Trooper: SWAT ARC Trooper [T3], Shock Trooper: Pilot [T2], Shock Trooper: ARC Elite Sharpshooter [T2], Shock Trooper: ARF Support Trooper [T1], Shock Trooper: Medic [T1], 
+
+Delta Squad: Boss, Delta Squad: Fixer, Delta Squad: Scorch, Delta Squad: Sev [T1],
+
+Omega Squad: Niner Skirata, Omega Squad: Darman Skirata, Omega Squad: Min Skirata, Omega Squad: Fi Skirata [T1],
+
+Foxtrot Squad: Gregor, Foxtrot Squad: DEMO, Foxtrot Squad: TECH, Foxtrot Squad: Medic [T1], 
+
+Null Squad: Ordo, Null Squad: Prudii, Null Squad: Meree,l Null Squad: Jaing, Null Squad: Aden, Null Squad: Kom'rk,
+
+Bad Batch: Hunter, Bad Batch: Wrecker, Bad Batch: Tech, 
+
+Special Operations: Special Operations: Commander Blackout, Special Operations: Covert Ops Officer, Special Operations: Covert Ops Moz, Special Operations: Covert Ops Olun, Special Operations: Covert Ops Heavy Trooper, Special Operations: Covert Ops Trooper, Special Operations: Sharpshooter, Special Operations: Engineer, Special Operations: Heavy Trooper, Special Operations: Trooper, Special Operations: Magma Trooper [T3], Special Operations: Jet Trooper [T1], Special Operations: Shadow ARC Trooper, Special Operations: Elite Sharpshooter, Special Operations: ARF Support Trooper, Special Operations: Covert Ops ARF Support Trooper, Special Operations: Medic, 
+
+RANCOR: Commander Blitz, RANCOR: Commander Colt, RANCOR: Commander Havoc, RANCOR: Captain Fordo, RANCOR: Hammer, RANCOR: ARC Heavy Trooper, RANCOR: ARC Sharpshooter, RANCOR: ARC Engineer, RANCOR: ARC Trooper, RANCOR: ARF Officer, RANCOR: ARF Trooper, RANCOR: ARC Magma Trooper [T5], RANCOR: ARC Jet Trooper [T4], RANCOR: ARC Elite Sharpshooter [T2], RANCOR: ARF Support Trooper [T1], RANCOR: ARC Medic [T1],
+
+91st Recon: Commander Neyo, 91st Recon: Jester, 91st Recon: Razor, 91st Recon: Stak, 91st Recon: Lightning Squad Trooper, 91st Recon: Sharpshooter, 91st Recon: Engineer, 91st Recon: Heavy Trooper, 91st Recon: Trooper, 91st Recon: Magma Trooper [T5], 91st Recon: Jet Trooper [T4], 91st Recon: ARC Trooper [T3], 91st Recon: Elite Sharpshooter [T2], 91st Recon: Medic [T1], 
+
+Clones: Clone Trooper, Clones: Clone Recruit,
+
+212th Attack: Commander Cody, 212th Attack: Boil, 212th Attack: Waxer, 212th Attack: Sharpshooter, 212th Attack: Engineer, 212th Attack: Heavy Trooper, 212th Attack: ARF Trooper, 212th Attack: Trooper, 212th Attack: Jet Trooper [T4], 212th Attack: ARC Trooper [T3], 212th Attack: Elite Sharpshooter [T2], 212th Attack: Pilot [T2], 212th Attack: ARF Support Trooper [T1], 212th Attack: Medic [T1], 212th Attack: Ghost Company Magma Trooper [T5], 212th Attack: Ghost Company ARC Trooper [T3], 212th Attack: Ghost Company Support Trooper [T1], 
+
+2nd Airborne: Commander Barlex, 2nd Airborne: Officer, 2nd Airborne: Sharpshooter, 2nd Airborne: Engineer, 2nd Airborne: Heavy Trooper, 2nd Airborne: Trooper, 2nd Airborne: Jet Trooper [T4], 2nd Airborne: Pilot [T2], 2nd Airborne: Elite Sharpshooter [T2], 2nd Airborne: Elite Trooper [T2], 2nd Airborne: Recon Trooper [T1], 2nd Airborne: Medic [T1], 
+
+501st Legion: Commander Rex, 501st Legion: ARF Sharpshooter, 501st Legion: Engineer, 501st Legion: Heavy Trooper, 501st Legion: Trooper, 501st Legion: Magma Trooper [T5], 501st Legion: Jet Trooper [T4], 501st Legion: ARC Trooper [T3], 501st Legion: Pilot [T2], 501st Legion: ARF Elite Sharpshooter [T2], 501st Legion: ARF Support Trooper [T1], 501st Legion: Medic [T1],
+
+501st Torrent Company: Appo, 501st Torrent Company: Dogma, 501st Torrent Company: Hardcase, 501st Torrent Company: Trooper, 501st Torrent Company: Tup, 501st Torrent Company: Fives [T3], 501st Torrent Company: Echo [T3], 501st Torrent Company: Jesse [T3], 501st Torrent Company: ARC Trooper [T3], 501st Torrent Company: Hawk [T2], 501st Torrent Company: Boomer [T1], 501st Torrent Company: Kix [T1], 
+
+Galactic Marines: Commander Bacara, Galactic Marines: Sharpshooter, Galactic Marines: Engineer, Galactic Marines: Heavy Trooper, Galactic Marines: Trooper, Galactic Marines: Magma Trooper [T5], Galactic Marines: Jet Trooper [T4], Galactic Marines: ARC Trooper [T3], Galactic Marines: ARF Elite Sharpshooter [T2], Galactic Marines: Pilot [T2], Galactic Marines: ARF Support Trooper [T1], Galactic Marines: Medic [T1],
+
+Keller's Unit: Commander Keller, Keller's Unit: Engineer, Keller's Unit: Trooper, Keller's Unit: Jet Trooper [T4], Keller's Unit: Elite Sharpshooter [T2], Keller's Unit: Support Trooper [T1], Keller's Unit: Medic [T1],
+
+41st Elite Corps: Commander Gree, 41st Elite Corps: Heavy Trooper, 41st Elite Corps: Engineer, 41st Elite Corps: ARF Trooper, 41st Elite Corps: Magma Trooper [T5], 41st Elite Corps: Jet Trooper [T4], 41st Elite Corps: ARC Trooper [T3], 41st Elite Corps: Gett, 41st Elite Corps: Nye, 41st Elite Corps: Fye, 41st Elite Corps: ARF Elite Sharpshooter [T2], 41st Elite Corps: Medic,
+
+41st Green Company: Green Leader, 41st Green Company: Cooker, 41st Green Company: Draa, 41st Green Company: Scout Trooper, 41st Green Company: Elite Sharpshooter, 41st Green Company: Support Trooper, 41st Green Company: Medic,
+
+104th Assault Battalion: Commander Wolffe, 104th Assault Battalion: Sharpshooter, 104th Assault Battalion: Engineer, 104th Assault Battalion: Heavy Trooper, 104th Assault Battalion: Trooper, 104th Assault Battalion: Magma Trooper [T5], 104th Assault Battalion: Jet Trooper [T4], 104th Assault Battalion: ARC Trooper [T3], 104th Assault Battalion: Pilot [T2], 104th Assault Battalion: ARF Elite Sharpshooter [T2], 104th Assault Battalion: ARF Support Trooper [T1], 104th Assault Battalion: Medic [T1],
+
+104th Wolfpack: Sinker, 104th Wolfpack: Comet, 104th Wolfpack: Boost, 104th Wolfpack: Mortar, 104th Wolfpack: Cabur, 104th Wolfpack: Dash-29 [T3], 104th Wolfpack: Dash-44 [T3], 104th Wolfpack: Tracer [T2], 104th Wolfpack: Warthog [T2], 104th Wolfpack: Tal [T1]
+
+327th Star Corps 327th Star Corps: Commander Bly, 327th Star Corps: Barr, 327th Star Corps: Galle, 327th Star Corps: Sharpshooter, 327th Star Corps: Engineer, 327th Star Corps: Heavy Trooper, 327th Star Corps: Trooper, 327th Star Corps: Magma Trooper [T4], 327th Star Corps: Jet Trooper [T4], 327th Star Corps: [T3], 327th Star Corps: Pilot [T2], 327th Star Corps: Elite Sharpshooter [T2], 327th Star Corps: Medic [T1],
+
+327th K Company: Commander Deviss, 327th K Company: Sharpshooter, 327th K Company: Engineer, 327th K Company: Heavy Trooper, 327th K Company: Trooper, 327th K Company: Jet Trooper [T4], 327th K Company: ARC Trooper [T3], 327th K Company: Elite Sharpshooter [T2], 327th K Company: Pilot [T2], 327th K Company: Medic [T1],
+
+Doom's Unit Doom's Unit: Commander Doom, Doom's Unit: Engineer, Doom's Unit: Sharpshooter, Doom's Unit: Trooper, Doom's Unit: Magma Trooper [T5], Doom's Unit: Jet Trooper [T4], Doom's Unit: ARC Trooper [T3], Doom's Unit: Pilot [T2], Doom's Unit: ARF Support Trooper [T1], Doom's Unit: Medic,
+
+Droids Droids: R2-D2 [T5], Droids: C-3PO [T5], Droids: Chopper [T4], Droids: G0-T0 [T4], Droids: Mining Droid [T4], Droids: Police Droid [T3], Droids: Astromech Droid [T3], Droids: Protocol Droid [T3], Droids: Shopkeeping Droid [T3], Droids: Pit Droid [T1], Droids: Medical Droid [T3], Droids: Training B1 Battle Droid [T1],
+
+Event - Bounty Hunters Bounty Hunter: Cad Bane [T6], Bounty Hunter: Boba Fett [T5], Bounty Hunter: Embo [T4], Bounty Hunter: Bossk [T4], Bounty Hunter: Rako Hardeen [T4], Bounty Hunter: Dengar [T4], Bounty Hunter: Bric [T3], Bounty Hunter: El-Les [T3], Bounty Hunter: Weequay Pirate [T2],
+
+Event - CIS Army CIS: EG-5 Jedi Hunter Droid [T5], CIS: Tactical Droid [T5], CIS: IG-10 Magnaguard [T4], CIS: Assassin Droid [T4], CIS: Commando Droid [T4], CIS: 22nd Infantry Trooper [T3], CIS: B2 Super Battle Droid [T3], CIS: Aquad Droid [T3], CIS: B1 Battle Droid Commander [T2], CIS: Probe Droid [T2], CIS: B1 Battle Droid [T1], CIS: B1 Pilot Droid [T1],
+
+Event - Deathwatch Deathwatch: Commander [T5], Deathwatch: Captain [T4], Deathwatch: Lieutenant [T3], Deathwatch: Super Commando [T2], Deathwatch: Soldier [T1],
+
+Event - General General: Jabba The Hutt [T5], General: Ziro The Hutt [T4], General: Wat Tambor [T4], General: Revanite Leader [T4], General: Umbaran General [T4], General: Revanite Follower [T3], General: Umbaran Soldier [T3], General: King Yos Kolina [T3], General: Captain Ackbaar [T3], General: Nossor Ri [T3], General: Ion Papanoida [T2], General: Mina Bonteri [T2], General: Lux Bonteri [T2], General: RA-7 Protocol [T1], General: Onderon Guard [T2], General: Manalorian Secret Service [T2], General: Infected Clone [T2], General: Old Daka [T2], General: Night Sister, General: Devaronian [T2], General: Quarren [T1], General: Undead Night Sister [T1], General: Rodian [T1], General: Wookie [T1], General: Gungan [T1], General: Black Sun Soldier [T1], General: Geonosian [T1], General: Tusken Chieftain [T1], General: Tusken Raider [T1], General: Jawa [T1], General: Massif [T1], General: Rakghoul [T1], General: Ithorian [T1], General: Twi'lek Female [T1], General: Bith [T1], General: Talz [T1], General: Karkarodon [T1], General: Gotal [T1], General: Trandoshan [T1], General: Neimoidian [T1], General: Human Civilian [T1], General: Kaminoan [T1],
+
+Event - Sith Sith: Count Dooku [T6], Sith: General Grievous [T5], Sith: Asajj Ventress [T4], Sith: Darth Maul [T4], Sith: Savage Opress [T3], Sith: Sith Lord [T3], Sith: Sith Warrior [T2], Sith: Dark Acolyte [T1]
